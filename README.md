@@ -1,6 +1,6 @@
 # Project Hello World!
 + By: arnab bhar
-+ Production URL: <http://hello-world.dwa-fall2018-arnab.me>
++ Production URL: <http://p1.dwa-fall2018-arnab.me>
 
 ## Outside resources
 I have used BootStrap CSS for very lightly layered formatting 
