@@ -79,7 +79,7 @@ $author = $allqts[$key+1];
 	
 		
   <div class="col-3 col-md-4" align="center"><br><br></div>
-    <div class="col-6 col-md-4" align="center"><p class="h2">Arnab Bhar</p><img src="images/photo.jpg" width="198" height="351" alt=""/><br><br>I am highly energetic and result oriented Person . I am always eager to learn new technologies and practices love to share my thoughts and experiences with others<br><br><em><strong><?php echo $quote; ?></strong></em><br/><?php echo $author; ?></div>
+    <div class="col-6 col-md-4" align="center"><p class="h2">Arnab Bhar</p><img src="images/photo.jpg" width="198" height="351" alt=""/><br><br>I am highly energetic and result oriented person . I am always eager to learn new technologies and practices ,love to share my thoughts and experiences with others<br><br><em><strong><?php echo $quote; ?></strong></em><br/><?php echo $author; ?></div>
   <div class="col-3 col-md-4" align="center"></div>
 	
   <div class="col-3 col-md-8"></div>
